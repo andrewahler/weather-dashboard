@@ -1,0 +1,14 @@
+.shbutton {
+  width: 100%;
+  display: inline-block;
+}
+h2, h3 {
+  padding-top: 8px;
+  font-weight: 500;
+}
+h4 {
+  font-weight: 500;
+}
+.container {
+  max-width: 1200px;
+}
